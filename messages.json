@@ -1,0 +1,12 @@
+{
+  "http": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Hola desde HTTP"
+  ],
+  "mqtt": [],
+  "websocket": []
+}
